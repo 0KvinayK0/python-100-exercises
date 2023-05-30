@@ -1,4 +1,4 @@
-# python-100-exercises
+# Python 100 exercises
 
 ### This is a collection of my solutions that will be posted daily as I solve exercises from the (https://github.com/darkprinx/break-the-ice-with-python/tree/master) repo.
 
