@@ -9,5 +9,6 @@
 * **[Day 5](https://github.com/0KvinayK0/python-100-exercises/blob/main/main/day5.md "Day 5 Status")**- ***Question 16-17***
 * **[Day 6](https://github.com/0KvinayK0/python-100-exercises/blob/main/main/day6.md "Day 6 Status")**- ***Question 18-19***
 * **[Day 7](https://github.com/0KvinayK0/python-100-exercises/blob/main/main/day7.md "Day 7 Status")**- ***Question 20-21***
+* **[Day 8](https://github.com/0KvinayK0/python-100-exercises/blob/main/main/day8.md "Day 8 Status")**- ***Question 22-25***
 
 
