@@ -19,5 +19,6 @@
 * **[Day 15](https://github.com/0KvinayK0/python-100-exercises/blob/main/main/day_15.md "Day 15 Status")**- ***Question 54-59***
 * **[Day 16](https://github.com/0KvinayK0/python-100-exercises/blob/main/main/day_16.md "Day 16 Status")**- ***Question 60-64***
 * **[Day 17](https://github.com/0KvinayK0/python-100-exercises/blob/main/main/day_17.md "Day 17 Status")**- ***Question 65-69***
+* **[Day 18](https://github.com/0KvinayK0/python-100-exercises/blob/main/main/day_18.md "Day 18 Status")**- ***Question 70-74***
 
 
